@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dimitar_Mileski</title>
+    <link>https://dimitarmileski.github.io/</link>
+    <description>Recent content on Dimitar_Mileski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dimitarmileski.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Airplane</title>
+      <link>https://dimitarmileski.github.io/photos/airplane/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/photos/airplane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coast</title>
+      <link>https://dimitarmileski.github.io/photos/coast/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/photos/coast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waves</title>
+      <link>https://dimitarmileski.github.io/photos/waves/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/photos/waves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🚧Under construction</title>
+      <link>https://dimitarmileski.github.io/posts/under-construction/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/posts/under-construction/</guid>
+      <description>&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://dimitarmileski.github.io/about/</link>
+      <pubDate>Mon, 27 Jul 2020 20:32:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/about/</guid>
+      <description>Dimitar Mileski is Computer science and engineering (CSE) student at Faculty of Computer Science and Engineering (FCSE), Ss. Cyril and Methodius University in Skopje - уким
+I&amp;rsquo;am born in Prilep.
+🔗Connect 📧 Mail 🔗 Github
+🔗 Linkedin
+📚Education    School     Faculty of Computer Science and Engineering(FCSE), Ss. Cyril and Methodius University in Skopje - уким   Faculty of Electrical Engineering and Computing, University of Zagreb   High school &amp;ldquo;Mirce Acev&amp;rdquo; - Prilep    </description>
+    </item>
+    
+    <item>
+      <title>Building</title>
+      <link>https://dimitarmileski.github.io/photos/building/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/photos/building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mountain</title>
+      <link>https://dimitarmileski.github.io/photos/mountain/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/photos/mountain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galaxy</title>
+      <link>https://dimitarmileski.github.io/photos/galaxy/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/photos/galaxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fliper-OVO-FER</title>
+      <link>https://dimitarmileski.github.io/projects/fliper-ovo-fer/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/projects/fliper-ovo-fer/</guid>
+      <description>&lt;p&gt;Fliper is game developed in Unity (game engine).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>InsPlagiarism</title>
+      <link>https://dimitarmileski.github.io/projects/insplagiarism/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/projects/insplagiarism/</guid>
+      <description>&lt;p&gt;InsPlagiarism is web based plagiarism detection software.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hospital-Management-System</title>
+      <link>https://dimitarmileski.github.io/projects/hospital-management-system/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/projects/hospital-management-system/</guid>
+      <description>&lt;p&gt;Hospital-Management-System is system built with .NET CORE.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ClaimReq</title>
+      <link>https://dimitarmileski.github.io/projects/claimreq/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/projects/claimreq/</guid>
+      <description>&lt;p&gt;ClaimReq is platform built with .NET Core using Youtube Data API.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>YoDo</title>
+      <link>https://dimitarmileski.github.io/projects/yodo/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/projects/yodo/</guid>
+      <description>&lt;p&gt;YoDo is site for downloading Youtube content.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MOPS-Game</title>
+      <link>https://dimitarmileski.github.io/projects/mops-game/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/projects/mops-game/</guid>
+      <description>&lt;p&gt;MOPS-Game is desktop based game built with C#.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sticky</title>
+      <link>https://dimitarmileski.github.io/projects/sticky/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/projects/sticky/</guid>
+      <description>&lt;p&gt;Sticky is theme that is developed from scratch for WordPress CMS.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bouncing Snakes</title>
+      <link>https://dimitarmileski.github.io/projects/bouncing-snakes/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/projects/bouncing-snakes/</guid>
+      <description>&lt;p&gt;Bouncing snakes using p5.js library.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
