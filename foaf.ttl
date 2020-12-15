@@ -14,7 +14,7 @@
     foaf:givenname "Dimitar" ;
     foaf:homepage <https://dimitarmileski.github.io/> ;
     foaf:knows [ a foaf:Person ;
-            rdfs:seeAlso <https://raw.githubusercontent.com/SlamkovDejan/web-based-systems-homework/master/src/main/java/lab5/data/foaf.ttl?fbclid=IwAR0KozwUl1wqf-NL6zMgOEvME6NMssw1H9UkccpajYc0WaUX1syYbvfQjcg> ;
+            rdfs:seeAlso <https://raw.githubusercontent.com/SlamkovDejan/web-based-systems-homework/master/src/main/java/lab5/data/foaf.ttl> ;
             foaf:mbox_sha1sum "b5fa3eded5e38ab8f23ffd0c97c3a0fef2bf7b9c" ;
             foaf:name "Dejan Slamkov" ] ;
     foaf:mbox_sha1sum "d4637e2faf5978db96ce4e76b98d3cd2a01ae352" ;
