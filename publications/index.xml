@@ -6,10 +6,46 @@
     <description>Recent content in Publications on Dimitar_Mileski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dimitarmileski.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Architecture of a Distributed Infrastructureless System</title>
+      <link>https://dimitarmileski.github.io/publications/architecture-of-a-distributed-infrastructureless-system/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/publications/architecture-of-a-distributed-infrastructureless-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Scalable Real-Time ECG Monitoring of Thousands of Concurrent Patients</title>
+      <link>https://dimitarmileski.github.io/publications/optimal-scalable-real-time-ecg-monitoring-of-thousands-of-concurrent-patients/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/publications/optimal-scalable-real-time-ecg-monitoring-of-thousands-of-concurrent-patients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FinOps in Cloud-Native Near Real-Time Serverless Streaming Solutions</title>
+      <link>https://dimitarmileski.github.io/publications/finops-in-cloud-native-near-real-time-serverless-streaming-solutions/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/publications/finops-in-cloud-native-near-real-time-serverless-streaming-solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Performance Serverless Request Generator: Capable of Generating a Hundred Thousand Requests Per Second</title>
+      <link>https://dimitarmileski.github.io/publications/high-performance-serverless-request-generator-capable-of-generating-a-hundred-thousand-requests-per-second/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/publications/high-performance-serverless-request-generator-capable-of-generating-a-hundred-thousand-requests-per-second/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Distributed Denial of Wallet Attack on Serverless Pay-as-you-go Model</title>
@@ -17,6 +53,24 @@
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dimitarmileski.github.io/publications/distributed-denial-of-wallet-attack-on-serverless-pay-as-you-go-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serverless Implementations of Real-time Embarrassingly Parallel Problems</title>
+      <link>https://dimitarmileski.github.io/publications/serverless-implementations-of-real-time-embarrassingly-parallel-problems/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/publications/serverless-implementations-of-real-time-embarrassingly-parallel-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serverless FaaS Scalability Evaluation: An ECG Signal Processing Use Case</title>
+      <link>https://dimitarmileski.github.io/publications/serverless-faas-scalability-evaluation-an-ecg-signal-processing-use-case/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dimitarmileski.github.io/publications/serverless-faas-scalability-evaluation-an-ecg-signal-processing-use-case/</guid>
       <description></description>
     </item>
     

@@ -4,8 +4,43 @@
     
         
         <url>
+            <loc>https://dimitarmileski.github.io/publications/architecture-of-a-distributed-infrastructureless-system/</loc>
+            <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>https://dimitarmileski.github.io/</loc>
-            <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+            <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://dimitarmileski.github.io/publications/optimal-scalable-real-time-ecg-monitoring-of-thousands-of-concurrent-patients/</loc>
+            <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://dimitarmileski.github.io/publications/</loc>
+            <lastmod>2024-05-24T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://dimitarmileski.github.io/publications/finops-in-cloud-native-near-real-time-serverless-streaming-solutions/</loc>
+            <lastmod>2023-11-22T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://dimitarmileski.github.io/publications/high-performance-serverless-request-generator-capable-of-generating-a-hundred-thousand-requests-per-second/</loc>
+            <lastmod>2023-05-26T00:00:00+00:00</lastmod>
         </url>
         
     
@@ -18,8 +53,15 @@
     
         
         <url>
-            <loc>https://dimitarmileski.github.io/publications/</loc>
+            <loc>https://dimitarmileski.github.io/publications/serverless-implementations-of-real-time-embarrassingly-parallel-problems/</loc>
             <lastmod>2022-11-16T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://dimitarmileski.github.io/publications/serverless-faas-scalability-evaluation-an-ecg-signal-processing-use-case/</loc>
+            <lastmod>2022-05-27T00:00:00+00:00</lastmod>
         </url>
         
     
